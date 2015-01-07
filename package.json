@@ -1,0 +1,9 @@
+{
+  "name": "clown-town",
+  "version": "0.0.1",
+  "description": "a chat for clowns",
+  "dependencies": {
+    "express": "^4.10.2",
+    "socket.io": "^1.2.1"
+  }
+}
