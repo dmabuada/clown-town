@@ -1,9 +1,29 @@
 {
   "name": "clown-town",
-  "version": "0.0.1",
-  "description": "a chat for clowns",
+  "version": "1.0.0",
+  "description": "a simple chat interface using socket.io",
+  "main": "index.js",
   "dependencies": {
     "express": "^4.10.2",
     "socket.io": "^1.2.1"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dmabuada/clown-town.git"
+  },
+  "keywords": [
+    "websockets",
+    "socket.io",
+    "chat"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmabuada/clown-town/issues"
+  },
+  "homepage": "https://github.com/dmabuada/clown-town"
 }
